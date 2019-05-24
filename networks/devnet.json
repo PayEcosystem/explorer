@@ -1,14 +1,14 @@
 {
-  "title": "DARK Explorer",
-  "server": "https://dexplorer.ark.io/api/v2",
+  "title": "PAY Devnet Explorer",
+  "server": "http://82.165.76.74:4023/api/v2",
   "alias": "Development",
-  "activeDelegates": 51,
-  "rewardOffset": 10800,
+  "activeDelegates": "23",
+  "rewardOffset": "1000",
   "currencies": [],
   "knownWallets": {},
   "defaults": {
-    "token": "DARK",
-    "symbol": "DѦ",
+    "token": "XPAY",
+    "symbol": "₿",
     "currency": null,
     "priceChart": false
   }
